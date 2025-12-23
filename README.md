@@ -1,8 +1,34 @@
-# Science37.Web - Storybook
+# Belle Pro - Design System
 
-Dự án Storybook cho việc phát triển và tài liệu hóa các component React của Science37.Web.
+Hệ thống thiết kế và thư viện component cho Belle Pro Web Application.
 
-🌐 **Live Demo**: [pro-web-new-design-system](https://quan-tbs.github.io/pro-web-new-design-system/)
+🌐 **Live Demo**: [https://quan-tbs.github.io/pro-web-new-design-system/](https://quan-tbs.github.io/pro-web-new-design-system/)
+
+## 🎨 Design System Components
+
+Design system bao gồm các component sau:
+
+### Atoms (Nguyên tử)
+
+- **Button**: Các biến thể button với nhiều appearance và size
+- **Badge**: Labels và status indicators
+- **Input**: Text input với validation
+- **Checkbox**: Checkbox component
+- **Radio**: Radio button component
+- **Switch**: Toggle switch
+- **Select**: Dropdown select component
+
+### Molecules (Phân tử)
+
+- **Card**: Container component với shadow effects
+- **Text**: Typography component với heading và các variants
+
+### Styling Features
+
+- **Border Radius**: Component có border-radius 12px (đã được cập nhật từ 6px)
+- **Shadow System**: Các mức shadow từ sm đến lg
+- **Dark Mode Support**: Hỗ trợ theme tối
+- **Responsive**: Tương thích đa thiết bị
 
 ## 📋 Tổng quan
 
@@ -143,7 +169,7 @@ Các scripts có sẵn trong `package.json`:
 
 Storybook đã được deploy và có thể truy cập tại:
 
-**🔗 [https://quan-tbs.github.io/pro-web-new-design/](https://quan-tbs.github.io/pro-web-new-design/)**
+**🔗 [https://quan-tbs.github.io/pro-web-new-design-system/](https://quan-tbs.github.io/pro-web-new-design-system/)**
 
 ### Static Hosting
 
